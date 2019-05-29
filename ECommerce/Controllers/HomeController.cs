@@ -8,6 +8,9 @@ using ECommerce.Models;
 
 namespace ECommerce.Controllers
 {
+    /// <summary>
+    /// Home Controller
+    /// </summary>
     public class HomeController : Controller
     {
         public IActionResult Index()
