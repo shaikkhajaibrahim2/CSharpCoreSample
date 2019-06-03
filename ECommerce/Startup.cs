@@ -12,6 +12,9 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace ECommerce
 {
+    /// <summary>
+    /// Startup file
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
