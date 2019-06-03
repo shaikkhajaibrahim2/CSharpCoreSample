@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7cfe89e5_dadef004",
+        "filename": "changes.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1016586
+      },
+      "writtenOn": "2019-06-03T10:17:20Z",
+      "side": 1,
+      "message": "needs rework",
+      "revId": "a661a0b825a46b3c963ec775c84cc18af0034004",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
