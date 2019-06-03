@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "370a8c03_66468ab0",
+        "filename": "ECommerce/Program.cs",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1010069
+      },
+      "writtenOn": "2019-06-03T07:02:32Z",
+      "side": 1,
+      "message": "Remove changes from this file as they are empty comments",
+      "revId": "d2d2cd646b140319d659e67d1b398972a259702c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
